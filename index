@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Goflyair | Airlines Support Desk & Help Center</title>
+  <meta name="description" content="Goflyair Airlines Support Desk – Flight booking, ticket changes, cancellations, refunds, name correction, baggage help & 24/7 customer support." />
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#f7f9fc; color:#222}
+    header {background:#0b3c5d; color:#fff; padding:20px}
+    header h1 {margin:0}
+    nav a {color:#fff; margin-right:15px; text-decoration:none; font-weight:bold}
+    .hero {background:#e8f1f8; padding:40px; text-align:center}
+    .hero h2 {margin-bottom:10px}
+    .cta {background:#ff6b00; color:#fff; padding:12px 20px; display:inline-block; margin-top:15px; text-decoration:none; border-radius:4px}
+    .container {padding:30px; max-width:1100px; margin:auto}
+    .grid {display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px}
+    .card {background:#fff; padding:20px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,.1)}
+    footer {background:#0b3c5d; color:#fff; padding:20px; text-align:center}
+    h3 {color:#0b3c5d}
+    ul {padding-left:18px}
+    .notice {background:#fff3cd; padding:15px; border-left:5px solid #ff6b00; margin:20px 0}
+    .contact-box {background:#fff; padding:25px; border-radius:6px}
+    input, textarea {width:100%; padding:10px; margin:8px 0}
+    button {background:#0b3c5d; color:#fff; padding:10px 15px; border:none; cursor:pointer}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Goflyair</h1>
+  <p>Airlines Support Desk & Help Center</p>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#support">Support</a>
+    <a href="#faq">FAQs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>24/7 Airlines Booking & Support Assistance</h2>
+  <p>Book flights • Modify tickets • Cancellations • Refunds • Name correction • Baggage help</p>
+  <a href="#contact" class="cta">Call Support Now</a>
+</section>
+
+<section id="services" class="container">
+  <h2>Our Airline Services</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>✈ Flight Booking</h3>
+      <p>Domestic & international flight reservations at best available fares.</p>
+    </div>
+    <div class="card">
+      <h3>🔄 Ticket Modification</h3>
+      <p>Date change, time change, route modification & rebooking assistance.</p>
+    </div>
+    <div class="card">
+      <h3>❌ Cancellation & Refund</h3>
+      <p>Flight cancellations with refund status and airline policy guidance.</p>
+    </div>
+    <div class="card">
+      <h3>📝 Name Correction</h3>
+      <p>Minor & major name correction support as per airline rules.</p>
+    </div>
+    <div class="card">
+      <h3>🧳 Baggage Assistance</h3>
+      <p>Extra baggage purchase, baggage allowance & lost baggage guidance.</p>
+    </div>
+    <div class="card">
+      <h3>📞 24/7 Customer Support</h3>
+      <p>Live support for all airline-related queries and urgent travel needs.</p>
+    </div>
+  </div>
+</section>
+
+<section id="support" class="container">
+  <h2>Airlines Support Desk</h2>
+  <div class="notice">
+    <strong>Disclaimer:</strong> Goflyair is an independent travel assistance agency and is not directly affiliated with any airline. All services are provided as per airline policies.
+  </div>
+  <ul>
+    <li>PNR retrieval & booking status</li>
+    <li>Seat selection & special assistance requests</li>
+    <li>Flight reschedule due to delays or cancellations</li>
+    <li>Fare rules explanation & airline policies</li>
+  </ul>
+</section>
+
+<section id="faq" class="container">
+  <h2>Frequently Asked Questions</h2>
+  <div class="card">
+    <h3>Is Goflyair an airline?</h3>
+    <p>No. Goflyair is an independent airline support and travel assistance agency.</p>
+  </div>
+  <div class="card">
+    <h3>Can you help with urgent flight changes?</h3>
+    <p>Yes, our support desk assists with urgent booking modifications based on airline rules.</p>
+  </div>
+  <div class="card">
+    <h3>Do you charge service fees?</h3>
+    <p>Service fees may apply depending on the type of request and airline policy.</p>
+  </div>
+</section>
+
+<section id="contact" class="container">
+  <h2>Contact Goflyair Support</h2>
+  <div class="contact-box">
+    <p><strong>Email:</strong> support@goflyair.com</p>
+    <p><strong>Phone:</strong> +1-XXX-XXX-XXXX</p>
+    <p><strong>Working Hours:</strong> 24/7 Assistance</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea rows="4" placeholder="Describe your issue"></textarea>
+      <button type="submit">Submit Request</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Goflyair. All Rights Reserved.</p>
+  <p>Independent Airlines Support Desk & Travel Assistance Agency</p>
+</footer>
+
+</body>
+</html>
